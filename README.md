@@ -60,7 +60,7 @@ As you can see, after connecting this call-control HID to Google Meet, you can m
 
 Name                    | amount|
 --------                |-------|
-Arduino Pro Micro       | 3
+Arduino Pro Micro       | 1
 Key switch              | 3
 Khail hotswap           | 3
 M3x3x4.2 Bras inserts   | 4
