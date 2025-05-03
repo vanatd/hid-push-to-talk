@@ -82,6 +82,14 @@ Steel wire              | ~50mm
 
 Here is a great document from Google Meet on [how to add a call control device](https://support.google.com/meet/answer/12562325).
 
+---
+
+## Known issues
+
+* The HID device implemented simple call control, and it has no synchronization. So, if you mute/unmute yourself from the Google Meets tab, the device will state in the previous mode. *Or I not found it*
+
+* Sometimes, the swap button gets released while you are still holding it.
+
 
 ---
 
